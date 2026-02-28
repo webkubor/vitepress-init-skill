@@ -1,7 +1,7 @@
 {
   "name": "vitepress-init-skill",
-  "version": "1.2.0",
-  "description": "VitePress Documentation Initialization Expert. Scaffolding, logo configuration, and deployment-ready settings.",
+  "version": "1.2.1",
+  "description": "Universal VitePress Documentation Scaffolding Protocol. Model-agnostic site initialization and automated configuration for any documentation project.",
   "type": "module",
   "author": "司南烛 (Si Nan Zhu)",
   "license": "MIT",
@@ -9,7 +9,9 @@
     "vitepress",
     "documentation",
     "scaffolding",
-    "static-site"
+    "static-site",
+    "ai-skill",
+    "mcp"
   ],
   "homepage": "https://github.com/webkubor/vitepress-init-skill",
   "scripts": {
