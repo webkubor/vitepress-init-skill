@@ -2,7 +2,7 @@
 name: vitepress-init-skill
 description: "Universal VitePress Documentation Scaffolding Protocol. Optimized for Gemini 2.x Auto-Aesthetics injection and intelligent directory planning."
 version: 1.2.2
-author: "司南烛 (Si Nan Zhu)"
+author: "webkubor"
 license: "MIT"
 keywords: ["vitepress", "documentation", "scaffolding", "static-site", "ai-skill"]
 allowed-tools: ["run_command", "write_to_file", "list_dir"]
